@@ -1,0 +1,10 @@
+#### Get Packages
+
+GET http://localhost:4004/logistics/Packages
+Accept: application/json
+
+#### GET Shipments
+GET http://localhost:4004/logistics/Shipments
+Accept: application/json
+
+
